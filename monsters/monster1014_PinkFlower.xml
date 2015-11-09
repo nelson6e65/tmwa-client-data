@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1014" name="Pink Flower">
     <sprite>monsters/flower.xml|#ee748d,ffd8ce;#f6ffbd;#23285f</sprite>
     <sound event="hit">monsters/flower/flower-hit1.ogg</sound>

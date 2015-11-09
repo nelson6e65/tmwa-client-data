@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1090" name="Wolvern">
     <sprite>monsters/wolvern.xml|#000000,64727a,8996a0,a6afbf,dce9f3,ffffff</sprite>
     <sound event="hit">monsters/wolvern/wolvern-hit1.ogg</sound>

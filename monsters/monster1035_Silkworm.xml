@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1035" name="Silkworm">
     <sprite>monsters/silkworm.xml|#807d20,e0dac0;#c0a830</sprite>
   </monster>

@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1117" name="Undead Troll">
     <sprite>monsters/troll.xml|#BFBFBF;#F1F1F1;#FF99FF;#F1F1F1</sprite>
     <attack id="1" missile-particle="graphics/particles/monster-undeadtroll-foefire.particle.xml" action="attack"/>

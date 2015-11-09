@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1119" name="Thug">
     <sprite>model/male.xml|#53202b,7f4f45,9e6a43,d09459,fcd3a1,fefffc;#36e2fc,0ba8bf,a4a6a3,dad5f5;#3a3a3a,d5d5d5</sprite>
     <sprite>equipment/head/sailor-hat-male.xml</sprite>

@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1008" name="Red Slime">
     <sprite>monsters/slime.xml|#7e0000,ffffff</sprite>
     <sound event="hit">monsters/slime/slime-hit1.ogg</sound>

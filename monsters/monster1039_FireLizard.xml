@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1039" name="Fire Lizard">
     <sprite>monsters/lizard.xml|#673132,923F42,CD5961,E163A4,ffffff</sprite>
     <sound event="hit">monsters/fire-goblin/fire-goblin-hit1.ogg</sound>

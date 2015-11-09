@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
 <monsters offset="0">
+  <its:rules xmlns:its="http://www.w3.org/2005/11/its"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.0" xlink:href="_monsters.its" xlink:type="simple"/>
+
   <monster id="1019" name="Spiky Mushroom">
     <sprite>monsters/accessories/mushroom-base1.xml|#B37410,FFF5CC</sprite>
     <sprite>monsters/accessories/mushroom-base1-face1.xml|#730A73,BF31C0,FF9EFF,FFD9FF,FFFFFF;#7B4E07,FFF5CC</sprite>
